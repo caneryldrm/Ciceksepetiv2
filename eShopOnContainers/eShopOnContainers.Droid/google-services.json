@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866644804994",
+    "project_id": "ciceksepetiv2-7e915",
+    "storage_bucket": "ciceksepetiv2-7e915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866644804994:android:9c91d1529ceb014d347b9b",
+        "android_client_info": {
+          "package_name": "com.ciceksepetiv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866644804994-09qe6inc972t33t2tcnta23i88nrl9fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEe6BrWXiLLIf9ZE5W10p8jkcIaUcl1jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866644804994-09qe6inc972t33t2tcnta23i88nrl9fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
